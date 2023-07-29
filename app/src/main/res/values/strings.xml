@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Design Patterns</string>
+    <string name="builder">Builder Pattern</string>
+    <string name="alert_message_builder">This is a Builder</string>
+    <string name="alert">Alert!</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK!</string>
+    <string name="dialog">dialog</string>
+    <string name="nothing">Nothing</string>
+</resources>
